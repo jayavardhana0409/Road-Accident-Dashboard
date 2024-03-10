@@ -1,8 +1,5 @@
 # Road-Accident-Dashboard
 
-Here's a template for a README.md file for your GitHub repository containing the Excel data analytics project. You can modify it according to your specific project details:
-
----
 
 # Road Accident Dashboard - Excel Data Analytics Project
 
