@@ -1,6 +1,3 @@
-# Road-Accident-Dashboard
-
-
 # Road Accident Dashboard - Excel Data Analytics Project
 
 ## Overview
