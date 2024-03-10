@@ -37,3 +37,7 @@ The dashboard fulfills the following requirements specified by the client:
 
 ## Additional Notes
 - The dashboard is designed to be user-friendly and intuitive, allowing stakeholders to gain valuable insights into road accidents.
+
+Excel![Excel Dashboard](https://github.com/jayavardhana0409/Road-Accident-Dashboard/blob/85ba509f8027f20d5a91fd6b9fd6cf5d41b48aa7/Excel_Road%20Accident.png)
+
+Tableau![Tableau Dashboard](https://github.com/jayavardhana0409/Road-Accident-Dashboard/blob/e38da08c2253bbdbef0b8209c5bbc201214610c0/Road%20accident%20.png)
